@@ -1,0 +1,12 @@
+# Generated reports
+iam_report_*.txt
+iam_report_*.csv
+
+# Local credentials
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
