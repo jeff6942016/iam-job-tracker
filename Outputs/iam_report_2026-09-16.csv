@@ -1,0 +1,53 @@
+category,term,count,relevant_postings,percent
+Certifications,cissp,9,122,7.4
+Certifications,cism,7,122,5.7
+Certifications,sc-300,4,122,3.3
+Certifications,cisa,3,122,2.5
+Certifications,az-500,3,122,2.5
+Certifications,identity and access administrator,2,122,1.6
+Certifications,security +,1,122,0.8
+Certifications,security+,1,122,0.8
+Platforms,entra,28,122,23.0
+Platforms,active directory,21,122,17.2
+Platforms,okta,18,122,14.8
+Platforms,cyberark,14,122,11.5
+Platforms,sailpoint,14,122,11.5
+Platforms,microsoft entra,13,122,10.7
+Platforms,ping,12,122,9.8
+Platforms,ping identity,9,122,7.4
+Platforms,azure ad,7,122,5.7
+Platforms,forgerock,4,122,3.3
+Platforms,saviynt,4,122,3.3
+Protocols & Concepts,lifecycle,39,122,32.0
+Protocols & Concepts,mfa,28,122,23.0
+Protocols & Concepts,provisioning,28,122,23.0
+Protocols & Concepts,identity governance,24,122,19.7
+Protocols & Concepts,pam,23,122,18.9
+Protocols & Concepts,sso,20,122,16.4
+Protocols & Concepts,privileged access,19,122,15.6
+Protocols & Concepts,oauth,19,122,15.6
+Protocols & Concepts,rbac,18,122,14.8
+Protocols & Concepts,saml,18,122,14.8
+Protocols & Concepts,federation,17,122,13.9
+Protocols & Concepts,oidc,17,122,13.9
+Protocols & Concepts,zero trust,13,122,10.7
+Protocols & Concepts,conditional access,11,122,9.0
+Protocols & Concepts,iga,10,122,8.2
+Protocols & Concepts,least privilege,9,122,7.4
+Protocols & Concepts,directory services,9,122,7.4
+Protocols & Concepts,scim,9,122,7.4
+Protocols & Concepts,single sign-on,8,122,6.6
+Protocols & Concepts,multi-factor,8,122,6.6
+Protocols & Concepts,ldap,8,122,6.6
+Protocols & Concepts,role-based access,7,122,5.7
+Protocols & Concepts,joiner,7,122,5.7
+Protocols & Concepts,mover,7,122,5.7
+Protocols & Concepts,leaver,7,122,5.7
+Protocols & Concepts,deprovisioning,7,122,5.7
+Protocols & Concepts,openid connect,7,122,5.7
+Protocols & Concepts,pim,6,122,4.9
+Protocols & Concepts,just-in-time,4,122,3.3
+Experience Signals,5 years,7,122,5.7
+Experience Signals,3 years,6,122,4.9
+Experience Signals,7 years,2,122,1.6
+Experience Signals,4 years,2,122,1.6

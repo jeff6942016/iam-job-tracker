@@ -1,0 +1,324 @@
+IAM JOB POSTING REPORT  -  2026-09-16
+Postings fetched: 196 | Relevant (IAM) postings analysed: 122
+Full-text fetch: ON
+============================================================
+
+CERTIFICATIONS
+--------------
+  cissp                        9 / 122  (   7%)
+  cism                         7 / 122  (   6%)
+  sc-300                       4 / 122  (   3%)
+  cisa                         3 / 122  (   2%)
+  az-500                       3 / 122  (   2%)
+  identity and access administrator   2 / 122  (   2%)
+  security +                   1 / 122  (   1%)
+  security+                    1 / 122  (   1%)
+
+PLATFORMS
+---------
+  entra                       28 / 122  (  23%)
+  active directory            21 / 122  (  17%)
+  okta                        18 / 122  (  15%)
+  cyberark                    14 / 122  (  11%)
+  sailpoint                   14 / 122  (  11%)
+  microsoft entra             13 / 122  (  11%)
+  ping                        12 / 122  (  10%)
+  ping identity                9 / 122  (   7%)
+  azure ad                     7 / 122  (   6%)
+  forgerock                    4 / 122  (   3%)
+  saviynt                      4 / 122  (   3%)
+
+PROTOCOLS & CONCEPTS
+--------------------
+  lifecycle                   39 / 122  (  32%)
+  mfa                         28 / 122  (  23%)
+  provisioning                28 / 122  (  23%)
+  identity governance         24 / 122  (  20%)
+  pam                         23 / 122  (  19%)
+  sso                         20 / 122  (  16%)
+  privileged access           19 / 122  (  16%)
+  oauth                       19 / 122  (  16%)
+  rbac                        18 / 122  (  15%)
+  saml                        18 / 122  (  15%)
+  federation                  17 / 122  (  14%)
+  oidc                        17 / 122  (  14%)
+  zero trust                  13 / 122  (  11%)
+  conditional access          11 / 122  (   9%)
+  iga                         10 / 122  (   8%)
+  least privilege              9 / 122  (   7%)
+  directory services           9 / 122  (   7%)
+  scim                         9 / 122  (   7%)
+  single sign-on               8 / 122  (   7%)
+  multi-factor                 8 / 122  (   7%)
+  ldap                         8 / 122  (   7%)
+  role-based access            7 / 122  (   6%)
+  joiner                       7 / 122  (   6%)
+  mover                        7 / 122  (   6%)
+  leaver                       7 / 122  (   6%)
+  deprovisioning               7 / 122  (   6%)
+  openid connect               7 / 122  (   6%)
+  pim                          6 / 122  (   5%)
+  just-in-time                 4 / 122  (   3%)
+
+EXPERIENCE SIGNALS
+------------------
+  5 years                      7 / 122  (   6%)
+  3 years                      6 / 122  (   5%)
+  7 years                      2 / 122  (   2%)
+  4 years                      2 / 122  (   2%)
+
+============================================================
+BY ROLE TYPE (top terms each)
+
+  analyst: lifecycle (12), pam (9), provisioning (8), privileged access (8), cyberark (7), mfa (7), active directory (6), cissp (6)
+  engineer: lifecycle (25), entra (20), mfa (20), oauth (19), provisioning (18), saml (17), oidc (16), identity governance (15)
+  consultant: okta (3), iga (2), role-based access (2), pam (2), privileged access (2), 4 years (2), mfa (1), rbac (1)
+  admin: active directory (5), entra (4), identity governance (3), ldap (2), sailpoint (2), iga (2), lifecycle (2), microsoft entra (2)
+
+============================================================
+RELEVANT POSTINGS
+
+  - [analyst] IAM Analyst | Acestack
+    https://www.adzuna.ca/details/5877436964?utm_medium=api&utm_source=e9daaa57
+  - [analyst] IAM Analyst | Arctiq
+    https://www.adzuna.ca/details/5871688062?utm_medium=api&utm_source=e9daaa57
+  - [analyst] Access Review Analyst (IAM) | Insight Global
+    https://www.adzuna.ca/details/5856499691?utm_medium=api&utm_source=e9daaa57
+  - [analyst] Analyst, Identity Access Management | CIRO
+    https://www.adzuna.ca/details/5811293412?utm_medium=api&utm_source=e9daaa57
+  - [analyst] Senior Information Security Analyst - IAM/CyberArk Administrator | TD
+    https://www.adzuna.ca/details/5872361499?utm_medium=api&utm_source=e9daaa57
+  - [analyst] Senior Information Security Analyst - IAM/CyberArk Administrator | TD Bank
+    https://www.adzuna.ca/details/5873858830?utm_medium=api&utm_source=e9daaa57
+  - [analyst] Business Analyst - Identity & Access Management (IAM) / Privileged Access Management (PAM) | EPAM Systems
+    https://www.adzuna.ca/details/5769058398?utm_medium=api&utm_source=e9daaa57
+  - [analyst] Analyste des opérations de sécurité / Security Operations Analyst | Renaps
+    https://www.adzuna.ca/details/5361849805?utm_medium=api&utm_source=e9daaa57
+  - [analyst] Sr Sales Director - Canada | Simeio
+    https://www.adzuna.ca/details/5809919286?utm_medium=api&utm_source=e9daaa57
+  - [analyst] Analyst, Identity Access Management | Air Canada Vacations
+    https://www.adzuna.ca/details/5872888058?utm_medium=api&utm_source=e9daaa57
+  - [analyst] Manager, Cybersecurity Governance | Toromont Cat
+    https://www.adzuna.ca/details/5852238837?utm_medium=api&utm_source=e9daaa57
+  - [analyst] Business Analyst | Jose Merciline
+    https://www.adzuna.ca/details/5727240956?utm_medium=api&utm_source=e9daaa57
+  - [analyst] Senior Identity and Access Management Specialist (Permanent) | CoreFactor Inc.
+    https://www.adzuna.ca/details/5849427490?utm_medium=api&utm_source=e9daaa57
+  - [analyst] Manager Security Operations & Identity | Gore Mutual Insurance
+    https://www.adzuna.ca/details/5834748802?utm_medium=api&utm_source=e9daaa57
+  - [analyst] Manager Security Operations & Identity | Gore Mutual Insurance
+    https://www.adzuna.ca/details/5875492381?utm_medium=api&utm_source=e9daaa57
+  - [analyst] User Access Management Analyst (12-month contract) | goeasy
+    https://www.adzuna.ca/details/5819869841?utm_medium=api&utm_source=e9daaa57
+  - [analyst] User Access Management Analyst (12-month contract) | goeasy
+    https://www.adzuna.ca/details/5859649892?utm_medium=api&utm_source=e9daaa57
+  - [analyst] Sr. Analyst, Privileged Access Management | Invesco
+    https://www.adzuna.ca/details/5746731757?utm_medium=api&utm_source=e9daaa57
+  - [analyst] Experience IT Systems Administrator | Arcadion
+    https://www.adzuna.ca/details/5871927281?utm_medium=api&utm_source=e9daaa57
+  - [engineer] IAM Engineer | Acestack
+    https://www.adzuna.ca/details/5842102205?utm_medium=api&utm_source=e9daaa57
+  - [engineer] IAM Engineer | Swim Recruiting
+    https://www.adzuna.ca/details/5871107616?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Senior IAM Engineer | EPAM Systems
+    https://www.adzuna.ca/details/5866654103?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Lead IAM Engineer | Thomson Reuters
+    https://www.adzuna.ca/details/5812756947?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Senior IAM Engineer | LCBO
+    https://www.adzuna.ca/details/5871688517?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Principal Identity & Access Management (IAM) Engineer | Aviso Wealth
+    https://www.adzuna.ca/details/5869637431?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Principal Identity & Access Management (IAM) Engineer | Aviso Wealth
+    https://www.adzuna.ca/details/5870566770?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Identity Specialist II (Identity and Access Management - IAM Engineer II) | WorkSafeBC
+    https://www.adzuna.ca/details/5881896007?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Staff Security Engineer, IAM | GitLab
+    https://www.adzuna.ca/details/5866725615?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Cloud Infrastructure Engineer - IAM | Swim Recruiting
+    https://www.adzuna.ca/details/5871107636?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Principal Software Engineer (IAM) | Black Duck Software
+    https://www.adzuna.ca/details/5882410955?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Lead IAM Quality Assurance Engineer | EPAM Systems
+    https://www.adzuna.ca/details/5825390138?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Senior Operations Reliability Engineer - IAM | Genesys
+    https://www.adzuna.ca/details/5871701083?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Senior Cloud Engineer (IAM) - VAN or SEA | Insight Global
+    https://www.adzuna.ca/details/5810458379?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Cybersecurity Engineer – DevSecOps, IAM, PAM | Astra North Infoteck Inc.
+    https://www.adzuna.ca/details/5860697170?utm_medium=api&utm_source=e9daaa57
+  - [engineer] SSO Integrations | eBay
+    https://www.adzuna.ca/details/5775394547?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Senior PBAC Engineer | EPAM Systems
+    https://www.adzuna.ca/details/5761042472?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Software Development Engineer, AWS IAM Identity Center | Amazon Development Centre Canada ULC
+    https://www.adzuna.ca/details/5751650646?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Software Development Engineer, AWS IAM Identity Center | Amazon
+    https://www.adzuna.ca/details/5752861910?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Software Development Engineer, AWS IAM Identity Center | Amazon
+    https://www.adzuna.ca/details/5878170561?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Security Engineer – SIEM, EDR, IAM & Cloud Security | Astra North Infoteck Inc.
+    https://www.adzuna.ca/details/5846280107?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Senior Developer, Fullstack - Identity and Access Management (IAM) | Fullscript
+    https://www.adzuna.ca/details/5807499697?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Senior Identity Management Specialist | Kyndryl Canada
+    https://www.adzuna.ca/details/5866754659?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Senior Identity Management Specialist | Alquemy
+    https://www.adzuna.ca/details/5873896914?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Software Development Engineer II, AWS IAM Identity Center | Amazon
+    https://www.adzuna.ca/details/5844972264?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Software Development Engineer II, AWS IAM Identity Center | Amazon Web Services Canada, Inc.
+    https://www.adzuna.ca/details/5844031947?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Software Development Engineer II, AWS IAM Identity Center | Amazon
+    https://www.adzuna.ca/details/5878165133?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Information Security Expert | Allstate
+    https://www.adzuna.ca/details/5846355407?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Staff Product Manager, AI Builder Experience | United States Digital Space LLC
+    https://www.adzuna.ca/details/5879969895?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Staff Product Manager, AI Builder Experience | Talanto
+    https://www.adzuna.ca/details/5879973001?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Développeur(euse) logiciel / Software Developer (IAM) | Genetec
+    https://www.adzuna.ca/details/5526655076?utm_medium=api&utm_source=e9daaa57
+  - [engineer] IAM QE - Automation and Functional | Acestack
+    https://www.adzuna.ca/details/5822594110?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Staff Product Manager, AI Builder Experience | MongoDB
+    https://www.adzuna.ca/details/5872886292?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Staff Product Manager, AI Builder Experience | MongoDB
+    https://www.adzuna.ca/details/5878127568?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Développeur(euse) logiciel / Software Developer (IAM) | Genetec
+    https://www.adzuna.ca/details/5862905512?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Security Advisor PAM Specialist | Intact Financial
+    https://www.adzuna.ca/details/5825749575?utm_medium=api&utm_source=e9daaa57
+  - [engineer] SAP PM Consultant (Plant Maintenance) | Sopra Steria
+    https://www.adzuna.ca/details/5880922632?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Identity and Access Management Architect, Global Deloitte Technology | Deloitte
+    https://www.adzuna.ca/details/5794901396?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Senior Product Manager, Enterprise & Deployments | Fivetran
+    https://www.adzuna.ca/details/5842873166?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Windows 11 Security Hardening & Remediation Specialist-2026-51 | emergiTEL
+    https://www.adzuna.ca/details/5775295504?utm_medium=api&utm_source=e9daaa57
+  - [engineer] AI Platform Engineer (Senior / Principal) | RAVL
+    https://www.adzuna.ca/details/5812752161?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Senior Security Specialist - Attack Path Management (Global Security) | Royal Bank of Canada
+    https://www.adzuna.ca/details/5875404999?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Director, Customer Identity and Access Management | Hire Values
+    https://www.adzuna.ca/details/5884447267?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Identity Engineer | Asana
+    https://www.adzuna.ca/details/5803875964?utm_medium=api&utm_source=e9daaa57
+  - [engineer] PING Identity Engineer / Architect x3 | emergiTEL
+    https://www.adzuna.ca/details/5729578271?utm_medium=api&utm_source=e9daaa57
+  - [engineer] IT Systems Engineer - Identity | Asana
+    https://www.adzuna.ca/details/5859568177?utm_medium=api&utm_source=e9daaa57
+  - [engineer] AI Software Engineer - Identity Recovery | Quest
+    https://www.adzuna.ca/details/5879263420?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Manager, Software Engineering - Identity Platform | Marqeta
+    https://www.adzuna.ca/details/5879970710?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Staff Software Engineer, Identity and Access Management | Kong
+    https://www.adzuna.ca/details/5702885340?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Staff Software Engineer, Identity & Access Management | AlphaSense
+    https://www.adzuna.ca/details/5819851001?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Staff Software Engineer — Identity & Access Management | Xsolla
+    https://www.adzuna.ca/details/5787226672?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Senior Software Engineer, Device Identity ( Toronto) | Engg
+    https://www.adzuna.ca/details/5882799433?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Senior Software Engineer, Device Identity ( Toronto) | Okta
+    https://www.adzuna.ca/details/5879459376?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Senior Software Engineer, Device Identity at Okta | Okta
+    https://www.adzuna.ca/details/5882798695?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Senior Security Engineering Developer / Identity and Access Management (IAM) (Hybrid Toronto) | Capco
+    https://www.adzuna.ca/details/5812750391?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Architect for RMN Identity Spine | Acestack
+    https://www.adzuna.ca/details/5880049461?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Sr. Software Development Engineer - AWS Identity Store, AWS Identity Store - Virtual Location Canada | Amazon Development Centre Canada ULC
+    https://www.adzuna.ca/details/5885794622?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Senior Solutions Engineer, Auth0 (Canada) | Okta
+    https://www.adzuna.ca/details/5850763533?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Principal Product Manager - Identity Threat Detection & Response | Referral Board
+    https://www.adzuna.ca/details/5878180250?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Sr NetIQ Engineer (NetIQ OpenText) | Canadian Imperial Bank of Commerce
+    https://www.adzuna.ca/details/5833579235?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Identity Access Management Consultant - Intermediate RQ11384 | Analyst Technical Solutions
+    https://www.adzuna.ca/details/5854349262?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Senior Java Developer (CIAM) | CGI
+    https://www.adzuna.ca/details/5882404607?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Senior Cybersecurity Specialist | STACK IT Recruitment
+    https://www.adzuna.ca/details/5885256550?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Senior Cybersecurity Specialist | STACK IT Recruitment
+    https://www.adzuna.ca/details/5885256572?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Senior Cybersecurity Specialist | STACK IT Recruitment
+    https://www.adzuna.ca/details/5885256588?utm_medium=api&utm_source=e9daaa57
+  - [engineer] Senior Cybersecurity Specialist | STACK IT Recruitment
+    https://www.adzuna.ca/details/5885256600?utm_medium=api&utm_source=e9daaa57
+  - [engineer] IAM Specialist | Kinross Gold Corporation
+    https://www.adzuna.ca/details/5831205958?utm_medium=api&utm_source=e9daaa57
+  - [consultant] IAM Authentication Consultant | Insight Global
+    https://www.adzuna.ca/details/5830146131?utm_medium=api&utm_source=e9daaa57
+  - [consultant] Domain Consultant - IAM/IGA Solutions | Palo Alto Networks
+    https://www.adzuna.ca/details/5856499824?utm_medium=api&utm_source=e9daaa57
+  - [consultant] Domain Consultant - IAM/IGA Solutions | Palo Alto Networks
+    https://www.adzuna.ca/details/5837924403?utm_medium=api&utm_source=e9daaa57
+  - [consultant] IAM Specialist | TalentVault
+    https://www.adzuna.ca/details/5796078295?utm_medium=api&utm_source=e9daaa57
+  - [consultant] IAM Specialist | TalentVault
+    https://www.adzuna.ca/details/5874050774?utm_medium=api&utm_source=e9daaa57
+  - [consultant] Senior Consultant, SailPoint ISC | Cyderes
+    https://www.adzuna.ca/details/5697639615?utm_medium=api&utm_source=e9daaa57
+  - [consultant] Senior IAM Architect 26-16932 | US Tech Solutions
+    https://www.adzuna.ca/details/5806927378?utm_medium=api&utm_source=e9daaa57
+  - [consultant] Okta Technical Consultant (Okta Identity Governance/OIG) | KeyData Cyber
+    https://www.adzuna.ca/details/5867024263?utm_medium=api&utm_source=e9daaa57
+  - [consultant] Senior Associate- IAM | PricewaterhouseCoopers
+    https://www.adzuna.ca/details/5878192908?utm_medium=api&utm_source=e9daaa57
+  - [consultant] RQ11268 - 2 x Jr. Identity Access Management Consultant | Source Code
+    https://www.adzuna.ca/details/5820854198?utm_medium=api&utm_source=e9daaa57
+  - [consultant] RQ11268 - 2 x Jr. Identity Access Management Consultant | Source Code
+    https://www.adzuna.ca/details/5864457251?utm_medium=api&utm_source=e9daaa57
+  - [consultant] Senior Consultant, Identity Access Management | KPMG
+    https://www.adzuna.ca/details/5867767887?utm_medium=api&utm_source=e9daaa57
+  - [consultant] Okta Technical Consultant (OCI) (Contract) | KeyData Cyber
+    https://www.adzuna.ca/details/5884567642?utm_medium=api&utm_source=e9daaa57
+  - [consultant] Okta Technical Consultant (OCI/OWI) | KeyData Cyber
+    https://www.adzuna.ca/details/5866994897?utm_medium=api&utm_source=e9daaa57
+  - [admin] Microsoft 365 & Exchange Administrator | Astra North Infoteck Inc.
+    https://www.adzuna.ca/details/5860697192?utm_medium=api&utm_source=e9daaa57
+  - [admin] Windows Active Directory L3 Support Engineer | Astra North Infoteck Inc.
+    https://www.adzuna.ca/details/5858726062?utm_medium=api&utm_source=e9daaa57
+  - [admin] Identity Analyst- 2026-60 | emergiTEL
+    https://www.adzuna.ca/details/5807496807?utm_medium=api&utm_source=e9daaa57
+  - [admin] Sailpoint IIQ Consultant | Acestack
+    https://www.adzuna.ca/details/5875848668?utm_medium=api&utm_source=e9daaa57
+  - [admin] Sailpoint IIQ consultant | Astra North Infoteck Inc.
+    https://www.adzuna.ca/details/5876909701?utm_medium=api&utm_source=e9daaa57
+  - [admin] Architecte Active Directory (contrat 18 mois) | DELAN
+    https://www.adzuna.ca/details/5858707548?utm_medium=api&utm_source=e9daaa57
+  - [admin] Senior Systems Administrator | Photonic Job on T-Net
+    https://www.adzuna.ca/details/5818629307?utm_medium=api&utm_source=e9daaa57
+  - [admin] Senior Identity Governance and Access Management Specialist | Nexasphere
+    https://www.adzuna.ca/details/5841768171?utm_medium=api&utm_source=e9daaa57
+  - [admin] Associate Manager, Digital Identity | Avanade
+    https://www.adzuna.ca/details/5692392007?utm_medium=api&utm_source=e9daaa57
+  - [admin] System Administrator - Cloud | NDT Global
+    https://www.adzuna.ca/details/5821198429?utm_medium=api&utm_source=e9daaa57
+  - [admin] Cybersecurity Technical Lead - CrowdStrike, Proofpoint, MDE, MDI, and MDCA | Astra North Infoteck Inc.
+    https://www.adzuna.ca/details/5878074876?utm_medium=api&utm_source=e9daaa57
+  - [admin] CIAM Technology Lead / Technical Architect | emergiTEL
+    https://www.adzuna.ca/details/5868534625?utm_medium=api&utm_source=e9daaa57
+  - [admin] Technical Lead - Atlassian Guard, Atlassian Cloud & Identity Security | Astra North Infoteck Inc.
+    https://www.adzuna.ca/details/5846280146?utm_medium=api&utm_source=e9daaa57
+  - [admin] Microsoft 365 Administrator | Amico
+    https://www.adzuna.ca/details/5825752524?utm_medium=api&utm_source=e9daaa57
+  - [admin] Active Directory Administrator | Coreio
+    https://www.adzuna.ca/details/5603614593?utm_medium=api&utm_source=e9daaa57
+  - [admin] KeyData's Talent Pool | KeyData Cyber
+    https://www.adzuna.ca/details/5850940008?utm_medium=api&utm_source=e9daaa57
+  - [admin] Technical Lead - Atlassian Guard, Atlassian Cloud & Identity Security | Astra-North Infoteck Inc. ~ Conquering today’s challenges, achieving tomorrow’s vision!
+    https://www.adzuna.ca/details/5879969954?utm_medium=api&utm_source=e9daaa57
+  - [admin] Systems Engineer | Pathway Communications
+    https://www.adzuna.ca/details/5845440005?utm_medium=api&utm_source=e9daaa57
+  - [admin] Associate Manager, Digital Identity | Avanade Inc.
+    https://www.adzuna.ca/details/5690423278?utm_medium=api&utm_source=e9daaa57
+  - [admin] Senior Planning Analyst | Interac
+    https://www.adzuna.ca/details/5789395605?utm_medium=api&utm_source=e9daaa57
+  - [admin] Delivery Tooling and Platform Solutions, Lead | Interac
+    https://www.adzuna.ca/details/5793307200?utm_medium=api&utm_source=e9daaa57
+  - [admin] Anaplan Administrator-6913-1 | emergiTEL
+    https://www.adzuna.ca/details/5830576381?utm_medium=api&utm_source=e9daaa57
