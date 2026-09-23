@@ -34,13 +34,13 @@ import requests
 # CONFIG
 # ----------------------------------------------------------------------
 
-APP_ID  = os.environ.get("ADZUNA_APP_ID",  "YOUR_APP_ID_HERE")
-APP_KEY = os.environ.get("ADZUNA_APP_KEY", "YOUR_APP_KEY_HERE")
+APP_ID  = os.environ.get("e9daaa57",  "e9daaa57")
+APP_KEY = os.environ.get("4fba93534ef85a142efbf6ba7386b05b", "4fba93534ef85a142efbf6ba7386b05b")
 
 COUNTRY = "ca"
 RESULTS_PER_PAGE = 50
 PAGES_PER_TERM = 1
-WHERE = "Toronto"          # "" for country-wide
+WHERE = ""          # "" for country-wide
 
 # Try to fetch the full posting text from each job's redirect_url.
 # This gets past Adzuna's truncated excerpts, but is slower and some sites
@@ -56,12 +56,108 @@ RELEVANCE_MIN_CORE_HITS = 1
 
 # Searches to run. The key is the role-type label used for per-type tagging.
 SEARCH_TERMS = {
-    "analyst":    ["IAM analyst", "identity and access management analyst",
-                   "access management analyst"],
-    "engineer":   ["IAM engineer", "identity engineer"],
-    "consultant": ["IAM consultant", "identity access management consultant"],
-    "admin":      ["identity administrator", "user access administrator"],
+    "analyst": [
+        "IAM analyst",
+        "identity and access management analyst",
+        "access management analyst",
+        "identity analyst",
+        "IAM security analyst",
+        "access governance analyst",
+        "user access analyst",
+        "identity security analyst",
+    ],
+    "engineer": [
+        "IAM engineer",
+        "identity engineer",
+        "identity and access management engineer",
+        "IAM security engineer",
+        "IAM systems engineer",
+        "IAM automation engineer",
+        "directory services engineer",
+        "access management engineer",
+    ],
+    "consultant": [
+        "IAM consultant",
+        "identity access management consultant",
+        "identity and access management consultant",
+        "IAM implementation consultant",
+        "IAM security consultant",
+        "identity governance consultant",
+    ],
+    "admin": [
+        "identity administrator",
+        "user access administrator",
+        "IAM administrator",
+        "IAM admin",
+        "identity and access management administrator",
+        "access control administrator",
+        "directory administrator",
+    ],
+
+    # New essential categories
+    "architect": [
+        "IAM architect",
+        "identity architect",
+        "identity and access management architect",
+        "enterprise IAM architect",
+        "IAM solution architect",
+        "identity security architect",
+    ],
+    "developer": [
+        "IAM developer",
+        "identity developer",
+        "identity and access management developer",
+        "IAM integration developer",
+        "IAM software engineer",
+    ],
+    "specialist": [
+        "IAM specialist",
+        "identity specialist",
+        "identity and access management specialist",
+        "access management specialist",
+        "access control specialist",
+    ],
+    "manager_lead": [
+        "IAM manager",
+        "identity and access management manager",
+        "IAM lead",
+        "IAM team lead",
+        "identity governance manager",
+        "head of IAM",
+    ],
+
+    # Niche / Sub-domain categories (PAM & IGA)
+    "pam": [
+        "PAM engineer",
+        "PAM analyst",
+        "PAM administrator",
+        "privileged access management engineer",
+        "privileged access management analyst",
+        "privileged access management specialist",
+    ],
+    "iga": [
+        "IGA engineer",
+        "IGA analyst",
+        "identity governance engineer",
+        "identity governance analyst",
+        "identity governance specialist",
+    ],
+
+    # Optional: Popular Tool/Vendor-Specific Search Terms
+    "vendor_specific": [
+        "SailPoint engineer",
+        "SailPoint developer",
+        "Okta engineer",
+        "Okta administrator",
+        "CyberArk engineer",
+        "CyberArk administrator",
+        "Ping Identity engineer",
+        "ForgeRock developer",
+        "Microsoft Entra engineer",
+        "Azure AD administrator",
+    ]
 }
+
 
 # Core identity terms used ONLY for the relevance filter.
 CORE_IDENTITY_TERMS = [
