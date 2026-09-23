@@ -1,0 +1,56 @@
+category,term,count,relevant_postings,percent
+Certifications,cissp,9,259,3.5
+Certifications,cism,8,259,3.1
+Certifications,cisa,3,259,1.2
+Certifications,sc-300,3,259,1.2
+Certifications,az-500,3,259,1.2
+Certifications,security+,2,259,0.8
+Certifications,identity and access administrator,2,259,0.8
+Certifications,security +,1,259,0.4
+Certifications,comptia security,1,259,0.4
+Certifications,okta certified,1,259,0.4
+Platforms,entra,50,259,19.3
+Platforms,okta,40,259,15.4
+Platforms,active directory,34,259,13.1
+Platforms,microsoft entra,16,259,6.2
+Platforms,sailpoint,14,259,5.4
+Platforms,ping,14,259,5.4
+Platforms,ping identity,13,259,5.0
+Platforms,cyberark,9,259,3.5
+Platforms,azure ad,8,259,3.1
+Platforms,saviynt,7,259,2.7
+Platforms,forgerock,3,259,1.2
+Platforms,beyondtrust,1,259,0.4
+Protocols & Concepts,lifecycle,47,259,18.1
+Protocols & Concepts,mfa,32,259,12.4
+Protocols & Concepts,provisioning,25,259,9.7
+Protocols & Concepts,identity governance,23,259,8.9
+Protocols & Concepts,privileged access,22,259,8.5
+Protocols & Concepts,oauth,21,259,8.1
+Protocols & Concepts,sso,21,259,8.1
+Protocols & Concepts,saml,19,259,7.3
+Protocols & Concepts,pam,19,259,7.3
+Protocols & Concepts,rbac,18,259,6.9
+Protocols & Concepts,oidc,16,259,6.2
+Protocols & Concepts,federation,14,259,5.4
+Protocols & Concepts,zero trust,12,259,4.6
+Protocols & Concepts,single sign-on,10,259,3.9
+Protocols & Concepts,multi-factor,10,259,3.9
+Protocols & Concepts,directory services,10,259,3.9
+Protocols & Concepts,openid connect,9,259,3.5
+Protocols & Concepts,role-based access,9,259,3.5
+Protocols & Concepts,ldap,9,259,3.5
+Protocols & Concepts,conditional access,9,259,3.5
+Protocols & Concepts,iga,9,259,3.5
+Protocols & Concepts,least privilege,7,259,2.7
+Protocols & Concepts,joiner,7,259,2.7
+Protocols & Concepts,mover,7,259,2.7
+Protocols & Concepts,leaver,7,259,2.7
+Protocols & Concepts,scim,7,259,2.7
+Protocols & Concepts,deprovisioning,5,259,1.9
+Protocols & Concepts,pim,5,259,1.9
+Protocols & Concepts,just-in-time,1,259,0.4
+Experience Signals,5 years,9,259,3.5
+Experience Signals,3 years,5,259,1.9
+Experience Signals,7 years,3,259,1.2
+Experience Signals,4 years,2,259,0.8
